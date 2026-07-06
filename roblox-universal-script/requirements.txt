@@ -1,0 +1,4 @@
+Microsoft.NET.Sdk
+xunit>=2.4.1
+xunit.runner.visualstudio>=2.4.3
+Moq>=4.16.1
